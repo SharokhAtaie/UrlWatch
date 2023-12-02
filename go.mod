@@ -1,6 +1,6 @@
 module github.com/SharokhAtaie/UrlWatch
 
-go 1.21.1
+go 1.18
 
 require (
 	github.com/jpillora/go-tld v1.2.1
